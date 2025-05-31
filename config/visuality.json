@@ -1,0 +1,47 @@
+{
+  "slimeEnabled": true,
+  "slimeColor": {
+    "field_24364": 8978297
+  },
+  "chargeEnabled": true,
+  "sparkleEnabled": true,
+  "soulEnabled": true,
+  "waterCircles": {
+    "density": 10,
+    "radius": 24,
+    "enabled": true,
+    "colored": true
+  },
+  "hitParticlesEnabled": true,
+  "hitParticleEntries": [
+    "minecraft:skeleton/visuality:bone",
+    "minecraft:skeleton_horse/visuality:bone",
+    "minecraft:stray/visuality:bone",
+    "minecraft:wither_skeleton/visuality:wither_bone",
+    "minecraft:chicken/visuality:feather",
+    "minecraft:villager/visuality:emerald"
+  ],
+  "shinyArmorEnabled": true,
+  "shinyArmorEntries": [
+    "immersiveores:vibranium_helmet",
+    "immersiveores:vibranium_chestplate",
+    "immersiveores:vibranium_leggings",
+    "immersiveores:vibranium_boots",
+    "immersiveores:vulpus_helmet",
+    "immersiveores:vulpus_chestplate",
+    "immersiveores:vulpus_leggings",
+    "immersiveores:vulpus_boots",
+    "immersiveores:enderium_helmet",
+    "immersiveores:enderium_chestplate",
+    "immersiveores:enderium_leggings",
+    "immersiveores:enderium_boots"
+  ],
+  "shinyBlocksEnabled": true,
+  "shinyBlockEntries": [
+    "immersiveores:vibranium_ore",
+    "immersiveores:vulpus_ore",
+    "immersiveores:enderium_ore",
+    "#minecraft:diamond_ores",
+    "#minecraft:emerald_ores"
+  ]
+}

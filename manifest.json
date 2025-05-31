@@ -1,4 +1,18 @@
 ﻿{
+    "shaderpacks":  {
+                        "ComplementaryReimagined_r5.5.1.zip":  {
+                                                                   "hash":  "20897248A5FE91B33BF7FD4B75959C30AA2003DF195297979A410EE37D3BB62F"
+                                                               }
+                    },
+    "resourcepacks":  {
+                          "Fresh Food 1.1.zip":  {
+                                                     "hash":  "E46EB8AF1CD4E58DE337D721E709B06D5CF126687F524E6CDE17FA8D6D9170F4"
+                                                 },
+                          "FreshAnimations.zip":  {
+                                                      "hash":  "E3988D219267D5C877A17EBCFD638BDBBE4B3A3AFD9E8234829CB03BF5F0D307"
+                                                  }
+                      },
+    "version":  "1.0.4",
     "config":  {
                    "entity_model_features.json":  {
                                                       "hash":  "D0FC40BA86B8AF64F5C27C8C5B3284A5021CD97131E65CA645D64F2421529656"
@@ -91,27 +105,6 @@
                                     "hash":  "A86198AEA55A4CF0C1560B0E602BF610E6ACF2B9C33C6C702ACEDE05D30673FC"
                                 }
                },
-    "shaderpacks":  {
-                        "ComplementaryReimagined_r5.5.1.zip":  {
-                                                                   "hash":  "20897248A5FE91B33BF7FD4B75959C30AA2003DF195297979A410EE37D3BB62F"
-                                                               }
-                    },
-    "versions":  {
-                     "fabric-loader-0.16.14-1.21.5/fabric-loader-0.16.14-1.21.5.json":  {
-                                                                                            "hash":  "D54F37327AEEC33CD68C73795A9F3663625E165935D9A18C6951A700C170D9B6"
-                                                                                        },
-                     "fabric-loader-0.16.14-1.21.5/fabric-loader-0.16.14-1.21.5.jar":  {
-                                                                                           "hash":  "522672AD20B460C02C2E39B6C5035EF6A849AF28EB11AB2AC7EB293D395A8C11"
-                                                                                       }
-                 },
-    "resourcepacks":  {
-                          "Fresh Food 1.1.zip":  {
-                                                     "hash":  "E46EB8AF1CD4E58DE337D721E709B06D5CF126687F524E6CDE17FA8D6D9170F4"
-                                                 },
-                          "FreshAnimations.zip":  {
-                                                      "hash":  "E3988D219267D5C877A17EBCFD638BDBBE4B3A3AFD9E8234829CB03BF5F0D307"
-                                                  }
-                      },
     "mods":  {
                  "RoughlyEnoughItems-19.0.806-fabric.jar":  {
                                                                 "hash":  "343B30022D4880A4C520A39907DF26E0E2D6CE0BDB125767556C4408E637D2B7"
@@ -207,5 +200,13 @@
                  "lithium-fabric-0.16.2+mc1.21.5.jar":  {
                                                             "hash":  "5EABE74310126B8334977249C62E448FA4CC1D45A0A1D3A6321C1BCD6B8C6068"
                                                         }
-             }
+             },
+    "versions":  {
+                     "fabric-loader-0.16.14-1.21.5/fabric-loader-0.16.14-1.21.5.json":  {
+                                                                                            "hash":  "D54F37327AEEC33CD68C73795A9F3663625E165935D9A18C6951A700C170D9B6"
+                                                                                        },
+                     "fabric-loader-0.16.14-1.21.5/fabric-loader-0.16.14-1.21.5.jar":  {
+                                                                                           "hash":  "522672AD20B460C02C2E39B6C5035EF6A849AF28EB11AB2AC7EB293D395A8C11"
+                                                                                       }
+                 }
 }

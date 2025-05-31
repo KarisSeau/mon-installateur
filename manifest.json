@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "1.0.5",
+    "version":  "1.0.6",
     "config":  {
                    "entity_model_features.json":  {
                                                       "hash":  "D0FC40BA86B8AF64F5C27C8C5B3284A5021CD97131E65CA645D64F2421529656"
@@ -118,6 +118,10 @@
                                                                 "hash":  "343B30022D4880A4C520A39907DF26E0E2D6CE0BDB125767556C4408E637D2B7",
                                                                 "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/RoughlyEnoughItems-19.0.806-fabric.jar"
                                                             },
+                 "timm-1.0.3.jar":  {
+                                        "hash":  "DA1A628159DC050B8787C79812D08D5A81059546561C12E775DFB38DEBF5B270",
+                                        "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/timm-1.0.3.jar"
+                                    },
                  "GlitchCore-fabric-1.21.5-2.5.0.1.jar":  {
                                                               "hash":  "DF6A424412E6AB377455ED91EAFF2224D99D17576086C3DE73ACE59DDE50FF8F",
                                                               "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/GlitchCore-fabric-1.21.5-2.5.0.1.jar"

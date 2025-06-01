@@ -93,14 +93,6 @@
                                                                    "hash":  "20897248A5FE91B33BF7FD4B75959C30AA2003DF195297979A410EE37D3BB62F"
                                                                }
                     },
-    "versions":  {
-                     "fabric-loader-0.16.14-1.21.5/fabric-loader-0.16.14-1.21.5.json":  {
-                                                                                            "hash":  "D54F37327AEEC33CD68C73795A9F3663625E165935D9A18C6951A700C170D9B6"
-                                                                                        },
-                     "fabric-loader-0.16.14-1.21.5/fabric-loader-0.16.14-1.21.5.jar":  {
-                                                                                           "hash":  "522672AD20B460C02C2E39B6C5035EF6A849AF28EB11AB2AC7EB293D395A8C11"
-                                                                                       }
-                 },
     "mods":  {
                  "RoughlyEnoughItems-19.0.806-fabric.jar":  {
                                                                 "hash":  "343B30022D4880A4C520A39907DF26E0E2D6CE0BDB125767556C4408E637D2B7",

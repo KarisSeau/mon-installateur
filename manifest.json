@@ -1,84 +1,9 @@
 ﻿{
-    "version":  "1.0.9",
+    "version":  "1.0.10",
     "config":  {
-                   "fzzy_config/keybinds.toml":  {
-                                                     "hash":  "26AC5810C9B5DC5C1968827357F0A58C58AC2B6F7B082630960228E16585062F"
-                                                 },
-                   "timm/TIMM.config":  {
-                                            "hash":  "F28C2BE6AF019797195CE4319AE5D38F750C64250CD4509EC1AC570C7A2042FD"
-                                        },
-                   "fzzy_config/search.toml":  {
-                                                   "hash":  "103317C4C1C5AE1421946C921428CBFBD9B2A17EE37115D9778D0B22E3B64E19"
-                                               },
-                   "sereneseasons/fertility.toml":  {
-                                                        "hash":  "F63F94B985285ADD146C73A8747D278CEC3D386807855B25DE0E1DB9962C153F"
-                                                    },
-                   "dynamiclights.json":  {
-                                              "hash":  "D114FBD97132F5C899D3AFF453C4683B02E4C2CF5E5FB23CF877745C001608AA"
-                                          },
-                   "waystones-common.toml":  {
-                                                 "hash":  "00AFCE37E08EA8521ACF4D5D495B628AE651DEC603C022840D39B724ACB419C7"
-                                             },
-                   "betterf3.json":  {
-                                         "hash":  "C70BB58422261EC7EABF00A1A838D6B452AF9E90E9F6DAF3A12B1ED56A423F3C"
-                                     },
-                   "balm-client.toml":  {
-                                            "hash":  "E6CA77393D993B18E48A8D87115D52DAD5EB0554BA3070F8919C257460FE377E"
-                                        },
-                   "entity_texture_features.json":  {
-                                                        "hash":  "0554C0E7816266477C65C18D2ADA9FDDDF1C6750787EFD329056223CA4A073B2"
-                                                    },
-                   "fallingleaves2.json":  {
-                                               "hash":  "CB9D4D481A63CDDAF7E90A3E3F8C5BB134CD0BE8F1401B1F808C55BF0AB4572F"
-                                           },
-                   "modmenu.json":  {
-                                        "hash":  "16D20C40CC6C114FAFF5493B561873FE160A65047720BC19FB3A3DD64AA67F3B"
-                                    },
-                   "timm/biome_playlists.json":  {
-                                                     "hash":  "35CE68DB7FA155DD8D7C01FF7D0BBD0E85150C82DDA83F222810C3D1A7675173"
-                                                 },
-                   "immersiveores/vulpus-common.toml":  {
-                                                            "hash":  "CBC7AFCB2A98E10F27553EC16328A125380150BD262BCBE19DEB1D7FB53B44D6"
-                                                        },
-                   "notenoughanimations.json":  {
-                                                    "hash":  "2617A9CA6DA0E9515B1777E56C1CF85A16A4B69F2362131241A2A5C0A4154BA3"
-                                                },
-                   "immersiveores/enderium-common.toml":  {
-                                                              "hash":  "0C6AB6B937C33D8368190983F7B759FCB832EDACE283C72AAB5777A873706979"
-                                                          },
-                   "midnightlib.json":  {
-                                            "hash":  "9BCDD9F5AE6C9FECC3A0DFEE7507BF17C56702F14E40DB9CDDE90148F1D3B387"
-                                        },
-                   "particlerain.json":  {
-                                             "hash":  "4ABB6DE893F90E39CEE1FB892E01BF6729C45F227EC01A19696784C344BC4B70"
-                                         },
-                   "etf_warnings.json":  {
-                                             "hash":  "A5BA22E63061C1FB67F0F895F17681351EAECCC225FAEF966C29EE630593275E"
-                                         },
-                   "entity_model_features.json":  {
-                                                      "hash":  "D0FC40BA86B8AF64F5C27C8C5B3284A5021CD97131E65CA645D64F2421529656"
-                                                  },
-                   "appleskin.json5":  {
-                                           "hash":  "AE87F2D1B38DFD4B1E0767DFEB539261DEAAF4FD2EB73692AFCBAAC7147855B9"
-                                       },
-                   "balm-common.toml":  {
-                                            "hash":  "E6CA77393D993B18E48A8D87115D52DAD5EB0554BA3070F8919C257460FE377E"
-                                        },
-                   "sereneseasons/seasons.toml":  {
-                                                      "hash":  "82E0F82EC0213745B1ADDC5FD2FC91006C2DD2D4EF737A9520A6FC57BE798681"
-                                                  },
                    "visuality.json":  {
                                           "hash":  "C3ADE847F83D496DC6606DCEE8EACF343C9AF1FD5C0DD7B97FA5FA615999BEBF"
-                                      },
-                   "fabric/indigo-renderer.properties":  {
-                                                             "hash":  "B22AF9FDFC073A462A55604B1BB387FA0E73F9F087DB1B7B9190D38F8EE4E418"
-                                                         },
-                   "yacl.json5":  {
-                                      "hash":  "D26A63D3CDF326412BA86DCC2781060BC53ED6C74AC7808E65325452E264E820"
-                                  },
-                   "immersiveores/vibranium-common.toml":  {
-                                                               "hash":  "CC499A7CCC1C471EA88183AE5D520A9F995694F41F73FEB5AD853B277C1F8242"
-                                                           }
+                                      }
                },
     "resourcepacks":  {
                           "Fresh Food 1.1.zip":  {

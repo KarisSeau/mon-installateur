@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "1.0.7",
+    "version":  "1.0.8",
     "config":  {
                    "fzzy_config/keybinds.toml":  {
                                                      "hash":  "26AC5810C9B5DC5C1968827357F0A58C58AC2B6F7B082630960228E16585062F"
@@ -93,6 +93,14 @@
                                                                    "hash":  "20897248A5FE91B33BF7FD4B75959C30AA2003DF195297979A410EE37D3BB62F"
                                                                }
                     },
+    "versions":  {
+                     "fabric-loader-0.16.14-1.21.5/fabric-loader-0.16.14-1.21.5.json":  {
+                                                                                            "hash":  "D54F37327AEEC33CD68C73795A9F3663625E165935D9A18C6951A700C170D9B6"
+                                                                                        },
+                     "fabric-loader-0.16.14-1.21.5/fabric-loader-0.16.14-1.21.5.jar":  {
+                                                                                           "hash":  "522672AD20B460C02C2E39B6C5035EF6A849AF28EB11AB2AC7EB293D395A8C11"
+                                                                                       }
+                 },
     "mods":  {
                  "RoughlyEnoughItems-19.0.806-fabric.jar":  {
                                                                 "hash":  "343B30022D4880A4C520A39907DF26E0E2D6CE0BDB125767556C4408E637D2B7",
@@ -146,10 +154,6 @@
                                                    "hash":  "8B5D3E6CF07C18F5F292846E04B604E6FE8532200240FCD2830C5D49F14AEE6F",
                                                    "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/entity_model_features.jar"
                                                },
-                 "SubtleEffects-fabric-1.21.5-1.10.0.jar":  {
-                                                                "hash":  "55639F5ACACEC334311E592A391608DA766C3CA062C96B1FCC7B971539FEB819",
-                                                                "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/SubtleEffects-fabric-1.21.5-1.10.0.jar"
-                                                            },
                  "fabric-api-0.125.0+1.21.5.jar":  {
                                                        "hash":  "A67DA1A93AD18F35969D70857CFD293F2DE9F71DFE801FCEC2C085F55C2EFC87",
                                                        "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/fabric-api-0.125.0+1.21.5.jar"
@@ -166,6 +170,10 @@
                                                                            "hash":  "8C30EB7F7EDBA84622E288796DE25596FACC94B2951B72DAB8629BA0D462B2F6",
                                                                            "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/sound-physics-remastered-fabric-1.21.5-1.4.12.jar"
                                                                        },
+                 "SubtleEffects-fabric-1.21.5-1.10.1.jar":  {
+                                                                "hash":  "7F1A498B9FAF3AB46FCC995D9018BC9157EF5DC8846AFD4C4727608FCA6651F7",
+                                                                "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/SubtleEffects-fabric-1.21.5-1.10.1.jar"
+                                                            },
                  "iris.jar":  {
                                   "hash":  "E961C1FC63493B56EDAEA7A4934B8F8B13A913CD95437927EA18EC1E870EF93F",
                                   "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/iris.jar"

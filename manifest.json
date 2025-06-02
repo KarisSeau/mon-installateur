@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "1.0.8",
+    "version":  "1.0.9",
     "config":  {
                    "fzzy_config/keybinds.toml":  {
                                                      "hash":  "26AC5810C9B5DC5C1968827357F0A58C58AC2B6F7B082630960228E16585062F"
@@ -138,10 +138,6 @@
                                                         "hash":  "A9D53C7C4F6AA3329C27F2B882B9CAE9E38706FD6B61CC922E4B8529E8AB031B",
                                                         "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/architectury-16.1.4-fabric.jar"
                                                     },
-                 "ImmersiveOres-1.21.5-0.6.jar":  {
-                                                      "hash":  "C52D5B008B1E0130353573587B1DBDE9492657CC1EEAD8FBAC895468D09714EB",
-                                                      "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/ImmersiveOres-1.21.5-0.6.jar"
-                                                  },
                  "balm-fabric-1.21.5-21.5.16.jar":  {
                                                         "hash":  "D5DC03B4BE04708C604143A76E11F84A2D39F7E85DEB6919DCDE0CBE12138A82",
                                                         "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/balm-fabric-1.21.5-21.5.16.jar"
@@ -150,14 +146,10 @@
                                                    "hash":  "47EDEACB8BB44D3DE6A6A1D4085264636D291F823503557B993886E33B7FFAA7",
                                                    "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/coolrain-1.2.0-1.21.5.jar"
                                                },
-                 "entity_model_features.jar":  {
-                                                   "hash":  "8B5D3E6CF07C18F5F292846E04B604E6FE8532200240FCD2830C5D49F14AEE6F",
-                                                   "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/entity_model_features.jar"
-                                               },
-                 "fabric-api-0.125.0+1.21.5.jar":  {
-                                                       "hash":  "A67DA1A93AD18F35969D70857CFD293F2DE9F71DFE801FCEC2C085F55C2EFC87",
-                                                       "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/fabric-api-0.125.0+1.21.5.jar"
-                                                   },
+                 "SereneSeasons-fabric-1.21.5-10.5.0.1.jar":  {
+                                                                  "hash":  "1B52D958FBD2E4659589439572F54E31EA226FADC35A022ED24244401B9CB149",
+                                                                  "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/SereneSeasons-fabric-1.21.5-10.5.0.1.jar"
+                                                              },
                  "cryonicconfig-fabric-1.0.0+mc1.21.4.jar":  {
                                                                  "hash":  "6929FC4DBC7C5ABCF8711C7EEF713955291A94C8DEA8D8AFDA4CC85F72E5AD84",
                                                                  "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/cryonicconfig-fabric-1.0.0+mc1.21.4.jar"
@@ -182,10 +174,10 @@
                                                           "hash":  "36F663B1C9503F47DEEAA33D78D1109A44CBCF924D61A00BF50E163C2F7D085F",
                                                           "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/chisel-fabric-2.0.1+mc1.21.5.jar"
                                                       },
-                 "SereneSeasons-fabric-1.21.5-10.5.0.1.jar":  {
-                                                                  "hash":  "1B52D958FBD2E4659589439572F54E31EA226FADC35A022ED24244401B9CB149",
-                                                                  "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/SereneSeasons-fabric-1.21.5-10.5.0.1.jar"
-                                                              },
+                 "fabric-api-0.125.3+1.21.5.jar":  {
+                                                       "hash":  "22CC91F2E10D7B2D71FF0667A4BF7DBA317E9B5069DBB48FC371EC6D679E66E8",
+                                                       "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/fabric-api-0.125.3+1.21.5.jar"
+                                                   },
                  "visuality.jar":  {
                                        "hash":  "738C915FF7B4A7CE2A3A5E5564CF789D0DE154751FB1800DD4EA25CB2AA3E613",
                                        "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/visuality.jar"
@@ -210,6 +202,10 @@
                                                      "hash":  "BE7A67B1BDF10177E90A9C04E8D7188E05942992F3F93DA298F2E25AD4D11AF4",
                                                      "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/entity_texture_features.jar"
                                                  },
+                 "entity_model_features.jar":  {
+                                                   "hash":  "8B5D3E6CF07C18F5F292846E04B604E6FE8532200240FCD2830C5D49F14AEE6F",
+                                                   "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/entity_model_features.jar"
+                                               },
                  "blur.jar":  {
                                   "hash":  "CA7F0C048A26B8628235750C4BBFBF6B5AC10D35607AA052A61D062701E0E9DC",
                                   "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/blur.jar"
@@ -218,6 +214,10 @@
                                                  "hash":  "5269C1CDD7EF8BD04821E400120188CAA385979AB4B4932AF197A8A4F17B5C22",
                                                  "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/chatanimation-1.0.6.jar"
                                              },
+                 "ImmersiveOres-1.21.5-0.7.jar":  {
+                                                      "hash":  "A149A7DAC87D417D9E410D7DF84EF950ABC2A351BDBB94ADDB3A39B77C353C9E",
+                                                      "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/ImmersiveOres-1.21.5-0.7.jar"
+                                                  },
                  "appleskin-fabric-mc1.21.5-3.0.6.jar":  {
                                                              "hash":  "E6FE03339204F887E295701998DF4B116F92EA183394156467670AB1AAF6EFB3",
                                                              "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/appleskin-fabric-mc1.21.5-3.0.6.jar"

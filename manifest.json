@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "1.0.10",
+    "version":  "1.1.0",
     "config":  {
                    "visuality.json":  {
                                           "hash":  "C3ADE847F83D496DC6606DCEE8EACF343C9AF1FD5C0DD7B97FA5FA615999BEBF"
@@ -47,10 +47,10 @@
                                                       "hash":  "FF118A61563EB4135080B360A8FA73C7482A03FA0C4829C044AA05D2A998E74B",
                                                       "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/fzzy_config-0.7.0+1.21.5.jar"
                                                   },
-                 "sodium.jar":  {
-                                    "hash":  "38DB626F6286E8773B3BFCDFF5AD32965EF0F0098751C63ACF82BDA6AC051D35",
-                                    "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/sodium.jar"
-                                },
+                 "badpackets-fabric-0.8.2.jar":  {
+                                                     "hash":  "55EA0B01C54AD4FD769963649BEB20A1971A6C820C9A258ACDF43CA353D904D8",
+                                                     "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/badpackets-fabric-0.8.2.jar"
+                                                 },
                  "notenoughanimations.jar":  {
                                                  "hash":  "E6C948182AD255678DCF8E0888BC3AEF397245708686E8CC48AC157CD94DB447",
                                                  "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/notenoughanimations.jar"
@@ -75,6 +75,10 @@
                                                                   "hash":  "1B52D958FBD2E4659589439572F54E31EA226FADC35A022ED24244401B9CB149",
                                                                   "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/SereneSeasons-fabric-1.21.5-10.5.0.1.jar"
                                                               },
+                 "wthit-fabric-15.0.1.jar":  {
+                                                 "hash":  "C58D3C119ECB4EF25B286A754223C9BEA5FDBA812A3A84047C233704BE4EC533",
+                                                 "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/wthit-fabric-15.0.1.jar"
+                                             },
                  "cryonicconfig-fabric-1.0.0+mc1.21.4.jar":  {
                                                                  "hash":  "6929FC4DBC7C5ABCF8711C7EEF713955291A94C8DEA8D8AFDA4CC85F72E5AD84",
                                                                  "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/cryonicconfig-fabric-1.0.0+mc1.21.4.jar"
@@ -83,6 +87,10 @@
                                            "hash":  "BDD34A1CDD24440094F476291D3520A640B64B1CDEF9EB7C82758FDD33C84B61",
                                            "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/fallingleaves.jar"
                                        },
+                 "sodium.jar":  {
+                                    "hash":  "38DB626F6286E8773B3BFCDFF5AD32965EF0F0098751C63ACF82BDA6AC051D35",
+                                    "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/sodium.jar"
+                                },
                  "sound-physics-remastered-fabric-1.21.5-1.4.12.jar":  {
                                                                            "hash":  "8C30EB7F7EDBA84622E288796DE25596FACC94B2951B72DAB8629BA0D462B2F6",
                                                                            "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/sound-physics-remastered-fabric-1.21.5-1.4.12.jar"
@@ -140,7 +148,7 @@
                                                  "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/chatanimation-1.0.6.jar"
                                              },
                  "ImmersiveOres-1.21.5-0.7.jar":  {
-                                                      "hash":  "A149A7DAC87D417D9E410D7DF84EF950ABC2A351BDBB94ADDB3A39B77C353C9E",
+                                                      "hash":  "8C4E72884ED1318F2B7944D7D5D489E39E9AC1BEF65B3CADBCD761ADDB6B7F8F",
                                                       "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/ImmersiveOres-1.21.5-0.7.jar"
                                                   },
                  "appleskin-fabric-mc1.21.5-3.0.6.jar":  {

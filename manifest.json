@@ -6,15 +6,7 @@
                                       }
                },
     "resourcepacks":  {
-                          "Fresh Food 1.1.zip":  {
-                                                     "hash":  "E46EB8AF1CD4E58DE337D721E709B06D5CF126687F524E6CDE17FA8D6D9170F4"
-                                                 },
-                          "FreshAnimations.zip":  {
-                                                      "hash":  "E3988D219267D5C877A17EBCFD638BDBBE4B3A3AFD9E8234829CB03BF5F0D307"
-                                                  },
-                          "Whale SMP.zip":  {
-                                                "hash":  "A24A4C02F3663063BBE3C394FFB299877BB0192ACA3873B7A6C81D5119A07976"
-                                            }
+
                       },
     "shaderpacks":  {
                         "ComplementaryReimagined_r5.5.1.zip":  {

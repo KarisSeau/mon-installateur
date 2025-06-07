@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "1.1.0",
+    "version":  "1.1.1",
     "config":  {
                    "visuality.json":  {
                                           "hash":  "C3ADE847F83D496DC6606DCEE8EACF343C9AF1FD5C0DD7B97FA5FA615999BEBF"
@@ -39,6 +39,18 @@
                                                               "hash":  "DF6A424412E6AB377455ED91EAFF2224D99D17576086C3DE73ACE59DDE50FF8F",
                                                               "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/GlitchCore-fabric-1.21.5-2.5.0.1.jar"
                                                           },
+                 "ImmediatelyFast-Fabric-1.9.5+1.21.5.jar":  {
+                                                                 "hash":  "9BAFD9E97609941D6BDC5874557784AC28C45F65B11FC8D6366E557E9B265521",
+                                                                 "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/ImmediatelyFast-Fabric-1.9.5+1.21.5.jar"
+                                                             },
+                 "SereneSeasons-fabric-1.21.5-10.5.0.1.jar":  {
+                                                                  "hash":  "1B52D958FBD2E4659589439572F54E31EA226FADC35A022ED24244401B9CB149",
+                                                                  "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/SereneSeasons-fabric-1.21.5-10.5.0.1.jar"
+                                                              },
+                 "wthit-fabric-15.0.2.jar":  {
+                                                 "hash":  "8166D40C795CD1BC6F219624EDE1EC70801D46A489F8266CEB34AA6C0D9429E0",
+                                                 "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/wthit-fabric-15.0.2.jar"
+                                             },
                  "betterf3.jar":  {
                                       "hash":  "1FF7209919DBE0CE592AF58992ACB77EF5B5751B68F6531E81D411B7D6BE7DA0",
                                       "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/betterf3.jar"
@@ -71,14 +83,14 @@
                                                    "hash":  "47EDEACB8BB44D3DE6A6A1D4085264636D291F823503557B993886E33B7FFAA7",
                                                    "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/coolrain-1.2.0-1.21.5.jar"
                                                },
-                 "SereneSeasons-fabric-1.21.5-10.5.0.1.jar":  {
-                                                                  "hash":  "1B52D958FBD2E4659589439572F54E31EA226FADC35A022ED24244401B9CB149",
-                                                                  "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/SereneSeasons-fabric-1.21.5-10.5.0.1.jar"
-                                                              },
-                 "wthit-fabric-15.0.1.jar":  {
-                                                 "hash":  "C58D3C119ECB4EF25B286A754223C9BEA5FDBA812A3A84047C233704BE4EC533",
-                                                 "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/wthit-fabric-15.0.1.jar"
-                                             },
+                 "particle_core-0.2.6+1.21.5.jar":  {
+                                                        "hash":  "AFB61AF1B5FF9CCE77B951ECC40D83D94F9094BD60DC443C8BB03FDE1514B350",
+                                                        "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/particle_core-0.2.6+1.21.5.jar"
+                                                    },
+                 "entity_model_features.jar":  {
+                                                   "hash":  "8B5D3E6CF07C18F5F292846E04B604E6FE8532200240FCD2830C5D49F14AEE6F",
+                                                   "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/entity_model_features.jar"
+                                               },
                  "cryonicconfig-fabric-1.0.0+mc1.21.4.jar":  {
                                                                  "hash":  "6929FC4DBC7C5ABCF8711C7EEF713955291A94C8DEA8D8AFDA4CC85F72E5AD84",
                                                                  "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/cryonicconfig-fabric-1.0.0+mc1.21.4.jar"
@@ -87,10 +99,6 @@
                                            "hash":  "BDD34A1CDD24440094F476291D3520A640B64B1CDEF9EB7C82758FDD33C84B61",
                                            "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/fallingleaves.jar"
                                        },
-                 "sodium.jar":  {
-                                    "hash":  "38DB626F6286E8773B3BFCDFF5AD32965EF0F0098751C63ACF82BDA6AC051D35",
-                                    "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/sodium.jar"
-                                },
                  "sound-physics-remastered-fabric-1.21.5-1.4.12.jar":  {
                                                                            "hash":  "8C30EB7F7EDBA84622E288796DE25596FACC94B2951B72DAB8629BA0D462B2F6",
                                                                            "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/sound-physics-remastered-fabric-1.21.5-1.4.12.jar"
@@ -135,10 +143,10 @@
                                                      "hash":  "BE7A67B1BDF10177E90A9C04E8D7188E05942992F3F93DA298F2E25AD4D11AF4",
                                                      "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/entity_texture_features.jar"
                                                  },
-                 "entity_model_features.jar":  {
-                                                   "hash":  "8B5D3E6CF07C18F5F292846E04B604E6FE8532200240FCD2830C5D49F14AEE6F",
-                                                   "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/entity_model_features.jar"
-                                               },
+                 "sodium.jar":  {
+                                    "hash":  "38DB626F6286E8773B3BFCDFF5AD32965EF0F0098751C63ACF82BDA6AC051D35",
+                                    "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/sodium.jar"
+                                },
                  "blur.jar":  {
                                   "hash":  "CA7F0C048A26B8628235750C4BBFBF6B5AC10D35607AA052A61D062701E0E9DC",
                                   "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/blur.jar"

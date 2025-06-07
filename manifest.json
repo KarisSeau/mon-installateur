@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "1.1.1",
+    "version":  "1.1.2",
     "config":  {
                    "visuality.json":  {
                                           "hash":  "C3ADE847F83D496DC6606DCEE8EACF343C9AF1FD5C0DD7B97FA5FA615999BEBF"
@@ -11,7 +11,10 @@
                                                  },
                           "FreshAnimations.zip":  {
                                                       "hash":  "E3988D219267D5C877A17EBCFD638BDBBE4B3A3AFD9E8234829CB03BF5F0D307"
-                                                  }
+                                                  },
+                          "Whale SMP.zip":  {
+                                                "hash":  "ED90F85412AF64B856BB3F165EBF17E6DE15F357F65F71D034DCF94BD3234AD4"
+                                            }
                       },
     "shaderpacks":  {
                         "ComplementaryReimagined_r5.5.1.zip":  {

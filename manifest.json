@@ -1,8 +1,14 @@
 ﻿{
     "version":  "1.1.2",
     "config":  {
+                   "autoreconnectrf.json":  {
+                                                "hash":  "12146626695B1164A3752A66B3C8DA1A7F4D8C1458472A5E6FCC0BBD4E4E2CDE"
+                                            },
                    "visuality.json":  {
                                           "hash":  "C3ADE847F83D496DC6606DCEE8EACF343C9AF1FD5C0DD7B97FA5FA615999BEBF"
+                                      },
+                   "one-click-join":  {
+                                          "hash":  "49DBCC08D00BFA404F641A4775A687DC7CE96E43A013A6B28285E109B55446DB"
                                       }
                },
     "resourcepacks":  {

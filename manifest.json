@@ -22,10 +22,10 @@
                                                                                        }
                  },
     "mods":  {
-                 "RoughlyEnoughItems-19.0.806-fabric.jar":  {
-                                                                "hash":  "343B30022D4880A4C520A39907DF26E0E2D6CE0BDB125767556C4408E637D2B7",
-                                                                "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/RoughlyEnoughItems-19.0.806-fabric.jar"
-                                                            },
+                 "badpackets-fabric-0.8.2.jar":  {
+                                                     "hash":  "55EA0B01C54AD4FD769963649BEB20A1971A6C820C9A258ACDF43CA353D904D8",
+                                                     "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/badpackets-fabric-0.8.2.jar"
+                                                 },
                  "timm-1.0.3.jar":  {
                                         "hash":  "DA1A628159DC050B8787C79812D08D5A81059546561C12E775DFB38DEBF5B270",
                                         "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/timm-1.0.3.jar"
@@ -54,10 +54,10 @@
                                                       "hash":  "FF118A61563EB4135080B360A8FA73C7482A03FA0C4829C044AA05D2A998E74B",
                                                       "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/fzzy_config-0.7.0+1.21.5.jar"
                                                   },
-                 "badpackets-fabric-0.8.2.jar":  {
-                                                     "hash":  "55EA0B01C54AD4FD769963649BEB20A1971A6C820C9A258ACDF43CA353D904D8",
-                                                     "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/badpackets-fabric-0.8.2.jar"
-                                                 },
+                 "sodium.jar":  {
+                                    "hash":  "38DB626F6286E8773B3BFCDFF5AD32965EF0F0098751C63ACF82BDA6AC051D35",
+                                    "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/sodium.jar"
+                                },
                  "notenoughanimations.jar":  {
                                                  "hash":  "E6C948182AD255678DCF8E0888BC3AEF397245708686E8CC48AC157CD94DB447",
                                                  "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/notenoughanimations.jar"
@@ -74,6 +74,10 @@
                                                         "hash":  "D5DC03B4BE04708C604143A76E11F84A2D39F7E85DEB6919DCDE0CBE12138A82",
                                                         "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/balm-fabric-1.21.5-21.5.16.jar"
                                                     },
+                 "modmenu-badges-lib-2025.4.1.jar":  {
+                                                         "hash":  "8DFF00A4FBCFFD85C9B1CAB5D1CBF60389C77E4DE82A58059E0A3665116E9F37",
+                                                         "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/modmenu-badges-lib-2025.4.1.jar"
+                                                     },
                  "coolrain-1.2.0-1.21.5.jar":  {
                                                    "hash":  "47EDEACB8BB44D3DE6A6A1D4085264636D291F823503557B993886E33B7FFAA7",
                                                    "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/coolrain-1.2.0-1.21.5.jar"
@@ -98,10 +102,14 @@
                                            "hash":  "BDD34A1CDD24440094F476291D3520A640B64B1CDEF9EB7C82758FDD33C84B61",
                                            "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/fallingleaves.jar"
                                        },
-                 "sound-physics-remastered-fabric-1.21.5-1.4.12.jar":  {
-                                                                           "hash":  "8C30EB7F7EDBA84622E288796DE25596FACC94B2951B72DAB8629BA0D462B2F6",
-                                                                           "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/sound-physics-remastered-fabric-1.21.5-1.4.12.jar"
-                                                                       },
+                 "one-click-join-1.21.2-fabric-1.0.1.jar":  {
+                                                                "hash":  "11B94618F1445BB160656798FBAC5F523FCA927D27707706E77FBD64EE182217",
+                                                                "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/one-click-join-1.21.2-fabric-1.0.1.jar"
+                                                            },
+                 "RoughlyEnoughItems-19.0.806-fabric.jar":  {
+                                                                "hash":  "343B30022D4880A4C520A39907DF26E0E2D6CE0BDB125767556C4408E637D2B7",
+                                                                "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/RoughlyEnoughItems-19.0.806-fabric.jar"
+                                                            },
                  "SubtleEffects-fabric-1.21.5-1.10.1.jar":  {
                                                                 "hash":  "7F1A498B9FAF3AB46FCC995D9018BC9157EF5DC8846AFD4C4727608FCA6651F7",
                                                                 "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/SubtleEffects-fabric-1.21.5-1.10.1.jar"
@@ -142,10 +150,14 @@
                                                      "hash":  "BE7A67B1BDF10177E90A9C04E8D7188E05942992F3F93DA298F2E25AD4D11AF4",
                                                      "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/entity_texture_features.jar"
                                                  },
-                 "sodium.jar":  {
-                                    "hash":  "38DB626F6286E8773B3BFCDFF5AD32965EF0F0098751C63ACF82BDA6AC051D35",
-                                    "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/sodium.jar"
-                                },
+                 "sound-physics-remastered-fabric-1.21.5-1.4.12.jar":  {
+                                                                           "hash":  "8C30EB7F7EDBA84622E288796DE25596FACC94B2951B72DAB8629BA0D462B2F6",
+                                                                           "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/sound-physics-remastered-fabric-1.21.5-1.4.12.jar"
+                                                                       },
+                 "autoreconnectrf-fabric-1.0.4+1.21.jar":  {
+                                                               "hash":  "D43AB72623D3CA297949FFB53D0D53DB96C9D674F731490034E7972C7BEC6FC2",
+                                                               "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/autoreconnectrf-fabric-1.0.4+1.21.jar"
+                                                           },
                  "blur.jar":  {
                                   "hash":  "CA7F0C048A26B8628235750C4BBFBF6B5AC10D35607AA052A61D062701E0E9DC",
                                   "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/blur.jar"

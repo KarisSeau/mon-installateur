@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "1.1.2",
+    "version":  "1.1.3",
     "config":  {
                    "autoreconnectrf.json":  {
                                                 "hash":  "12146626695B1164A3752A66B3C8DA1A7F4D8C1458472A5E6FCC0BBD4E4E2CDE"
@@ -32,10 +32,10 @@
                                                      "hash":  "55EA0B01C54AD4FD769963649BEB20A1971A6C820C9A258ACDF43CA353D904D8",
                                                      "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/badpackets-fabric-0.8.2.jar"
                                                  },
-                 "timm-1.0.3.jar":  {
-                                        "hash":  "DA1A628159DC050B8787C79812D08D5A81059546561C12E775DFB38DEBF5B270",
-                                        "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/timm-1.0.3.jar"
-                                    },
+                 "open-parties-and-claims-fabric-1.21.5-0.24.1.jar":  {
+                                                                          "hash":  "C46648B17010D7B012C3D243F0F317B20EB0B4D1FDCD2496C4BDEC4B5DD3EBB9",
+                                                                          "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/open-parties-and-claims-fabric-1.21.5-0.24.1.jar"
+                                                                      },
                  "GlitchCore-fabric-1.21.5-2.5.0.1.jar":  {
                                                               "hash":  "DF6A424412E6AB377455ED91EAFF2224D99D17576086C3DE73ACE59DDE50FF8F",
                                                               "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/GlitchCore-fabric-1.21.5-2.5.0.1.jar"
@@ -56,6 +56,10 @@
                                       "hash":  "1FF7209919DBE0CE592AF58992ACB77EF5B5751B68F6531E81D411B7D6BE7DA0",
                                       "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/betterf3.jar"
                                   },
+                 "ForgeConfigAPIPort-v21.5.1-1.21.5-Fabric.jar":  {
+                                                                      "hash":  "3CE8D8DDD6983E51E7BE21ACC52871A87611A4BEABE7D548CF0ADC0A42E5E123",
+                                                                      "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/ForgeConfigAPIPort-v21.5.1-1.21.5-Fabric.jar"
+                                                                  },
                  "fzzy_config-0.7.0+1.21.5.jar":  {
                                                       "hash":  "FF118A61563EB4135080B360A8FA73C7482A03FA0C4829C044AA05D2A998E74B",
                                                       "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/fzzy_config-0.7.0+1.21.5.jar"
@@ -100,6 +104,10 @@
                                                    "hash":  "8B5D3E6CF07C18F5F292846E04B604E6FE8532200240FCD2830C5D49F14AEE6F",
                                                    "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/entity_model_features.jar"
                                                },
+                 "timm-1.0.3.jar":  {
+                                        "hash":  "DA1A628159DC050B8787C79812D08D5A81059546561C12E775DFB38DEBF5B270",
+                                        "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/timm-1.0.3.jar"
+                                    },
                  "cryonicconfig-fabric-1.0.0+mc1.21.4.jar":  {
                                                                  "hash":  "6929FC4DBC7C5ABCF8711C7EEF713955291A94C8DEA8D8AFDA4CC85F72E5AD84",
                                                                  "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/cryonicconfig-fabric-1.0.0+mc1.21.4.jar"
@@ -190,7 +198,7 @@
                                                                        "hash":  "E46EB8AF1CD4E58DE337D721E709B06D5CF126687F524E6CDE17FA8D6D9170F4"
                                                                    },
                       "resourcepack/required/Whale SMP.zip":  {
-                                                                  "hash":  "A89BA65625365E8B9EA611AC545BCDE40D80668BDED42B40E0C406FA82E4A531"
+                                                                  "hash":  "456CDA97E869F685415585D6816C528A6881F26D2DE89349C801028EB7D1EEED"
                                                               },
                       "resourcepack/required/Default-Dark-Mode-1.21.4+-2025.5.1.zip":  {
                                                                                            "hash":  "401A12F3D0C56F0A7E0B5A1D6DB114E312B0793A43A780D4B406941FA55E3F44"

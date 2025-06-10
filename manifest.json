@@ -1,6 +1,6 @@
 ﻿{
     "version":  "1.1.4",
-    "releaseAvailableAfter":  1749621600,
+    "releaseAvailableAfter":  1749585600,
     "allowFullReinstall":  false,
     "config":  {
                    "reconnectrf.json":  {
@@ -9,6 +9,9 @@
                    "click-join":  {
                                       "hash":  "49DBCC08D00BFA404F641A4775A687DC7CE96E43A013A6B28285E109B55446DB"
                                   },
+                   "erf3.json":  {
+                                     "hash":  "1F6E136EF7B54F1A0CEED2D8BED96E668E05BB5440DBEB5927E18E76E0F91D38"
+                                 },
                    "ality.json":  {
                                       "hash":  "C3ADE847F83D496DC6606DCEE8EACF343C9AF1FD5C0DD7B97FA5FA615999BEBF"
                                   }

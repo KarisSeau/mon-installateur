@@ -1,227 +1,36 @@
 ﻿{
     "version":  "1.1.4",
-    "allowFullReinstall":  true,
+    "releaseAvailableAfter":  64065000000,
+    "allowFullReinstall":  false,
     "config":  {
-                   "lyenoughitems/config.json5":  {
-                                                      "hash":  "D9E11CF872BF670D2EF49EEEBEEA9F54E9A962FCD11735B59D54700AFA37519E"
-                                                  },
-                   "e_effects/environment.toml":  {
-                                                      "hash":  "44D6B93E5CF40553135C819C157CBFF71BECD699570A00532F68B5BD0A01F632"
-                                                  },
-                   "_physics_remastered/allowed_sounds.properties":  {
-                                                                         "hash":  "7AB7510B469347CA7E89797799D6B5CFCF321B22B9F8192D0E8E292C720B0B8E"
-                                                                     },
-                   "lyenoughitems/hints.json":  {
-                                                    "hash":  "4BE6974664993DA452FBDE9B71797A60FC7C17BAE0AEFC6363AAE74179EB1FA3"
-                                                },
-                   "lyenoughitems/collapsible.json5":  {
-                                                           "hash":  "A59667BAA54738C1B294393A9B3652BCF7D392CDB8CBA1C08A8006885B18E919"
-                                                       },
-                   "properties":  {
-                                      "hash":  "3FCC8F891E1271849335FB7C09DFA5797DCEEFFD24770263B91A0348075439CA"
+                   "terf3.json":  {
+                                      "hash":  "1F6E136EF7B54F1A0CEED2D8BED96E668E05BB5440DBEB5927E18E76E0F91D38"
                                   },
-                   "eseasons/fertility.toml":  {
-                                                   "hash":  "F63F94B985285ADD146C73A8747D278CEC3D386807855B25DE0E1DB9962C153F"
-                                               },
-                   "/category_entries.json5":  {
-                                                   "hash":  "93409E449D63233BD107DF55A6DF0CF85253B405E25E410A83D44A4C864086E5"
-                                               },
-                   "e_effects/blocks.toml":  {
-                                                 "hash":  "D018D30C4D30C87025181C8821FCDE6A86924778FBF703A2822136A72E54D025"
-                                             },
-                   "lyenoughitems/pinyin_double.properties":  {
-                                                                  "hash":  "24F24B4403F8099611A625CCF315C6E74AC6B5E1D5473DAF2F11F3E07AE73772"
-                                                              },
-                   "common.toml":  {
-                                       "hash":  "E6CA77393D993B18E48A8D87115D52DAD5EB0554BA3070F8919C257460FE377E"
+                   "-click-join":  {
+                                       "hash":  "49DBCC08D00BFA404F641A4775A687DC7CE96E43A013A6B28285E109B55446DB"
                                    },
-                   "json5":  {
-                                 "hash":  "D26A63D3CDF326412BA86DCC2781060BC53ED6C74AC7808E65325452E264E820"
-                             },
-                   "ones-common.toml":  {
-                                            "hash":  "00AFCE37E08EA8521ACF4D5D495B628AE651DEC603C022840D39B724ACB419C7"
-                                        },
-                   "/extra/energy_blacklist.json5":  {
-                                                         "hash":  "E8243FFAC9E64E2B025195EBFC4B1ACAFB98E5E89C0167E673470D65D4C31810"
-                                                     },
-                   "siveores/vulpus-common.toml":  {
-                                                       "hash":  "CBC7AFCB2A98E10F27553EC16328A125380150BD262BCBE19DEB1D7FB53B44D6"
-                                                   },
-                   "cle_core_config.toml":  {
-                                                "hash":  "B241A76A0AA325BBBF79C634AFA28A2FAAB3A154323FFC78E5A21FE0831CF0C4"
-                                            },
-                   "m-fingerprint.json":  {
-                                              "hash":  "7FB5F0815EF6FABC1C14514C7376FD1D4E82FC129A051445174D4F7D2E9E4507"
-                                          },
-                   "lyenoughitems/favorites.json5":  {
-                                                         "hash":  "589C13E9EBBB9AE1B868D73BE8C4E30323DCB03EFACF59D75B9D614F1B069B47"
-                                                     },
-                   "/waila.json5":  {
-                                        "hash":  "AC1D4C12619741B5E987F6800D87B1D4561F0851010B4816C46908244E558C3F"
-                                    },
-                   "_physics_remastered/soundphysics.properties":  {
-                                                                       "hash":  "068CCD6B0985F7BA643FB7CCD6E8149378B4679891A90AA2C787F8BA278330C6"
-                                                                   },
-                   "TIMM.config":  {
-                                       "hash":  "F28C2BE6AF019797195CE4319AE5D38F750C64250CD4509EC1AC570C7A2042FD"
+                   "uality.json":  {
+                                       "hash":  "C3ADE847F83D496DC6606DCEE8EACF343C9AF1FD5C0DD7B97FA5FA615999BEBF"
                                    },
-                   "y_model_features.json":  {
-                                                 "hash":  "D0FC40BA86B8AF64F5C27C8C5B3284A5021CD97131E65CA645D64F2421529656"
-                                             },
-                   "_physics_remastered/occlusion.properties":  {
-                                                                    "hash":  "EBBAC45FBB3CA01487B85FFEE9601B213B71896E6606FB297BCB0F3AC9C30FFB"
-                                                                },
-                   "ngleaves2.json":  {
-                                          "hash":  "CB9D4D481A63CDDAF7E90A3E3F8C5BB134CD0BE8F1401B1F808C55BF0AB4572F"
-                                      },
-                   "c/indigo-renderer.properties":  {
-                                                        "hash":  "108FA639187840FE271BF20C45395604AFEA1BF6F16A144BF6F94CB8AF1DF6BC"
-                                                    },
-                   "cle_core_disabled_optimizations.json":  {
-                                                                "hash":  "2BCB7AEA228925EBAB95B854AC359BC26993AF0A6F4B49B33E6CB734D284C35B"
-                                                            },
-                   "/extra/item_blacklist.json5":  {
-                                                       "hash":  "9EF0B7479C81E1A941EAA44FCDC571BDF9CB3DDB3D234A64F3DFF0A8CCBDA41E"
-                                                   },
-                   "/blacklist.json5":  {
-                                            "hash":  "582F7E30FD40975D418C3A5AE553B753712A2BBBBD3D76D4534262430E0D131E"
-                                        },
-                   "configapiport.toml":  {
-                                              "hash":  "40DBE5B348F89B8DED62BCDFE32807FFC3E78FA8E0F81607A739580019FE5450"
-                                          },
-                   "arnings.json":  {
-                                        "hash":  "A5BA22E63061C1FB67F0F895F17681351EAECCC225FAEF966C29EE630593275E"
-                                    },
-                   "econnectrf.json":  {
-                                           "hash":  "C70F491B4D3223BC6DBAEB0D33C8BFDAE0A4B5407003DE50D2831E0D6E02633D"
-                                       },
-                   "e_effects/items.toml":  {
-                                                "hash":  "FC5A3888EBF28698CC34A726D161DEC84E03E178E336CFD645ECFE438B8177C6"
-                                            },
-                   "/extra/fluid_blacklist.json5":  {
-                                                        "hash":  "278E964061848DF94AC89D7610987AFE3D008F1CA5FE6119410DC2E07A2ACA10"
-                                                    },
-                   "m-mixins.properties":  {
-                                               "hash":  "B627C4456E6FA0BC4B5F85E2F1CD949FAEDAE3CB9AFDAF2A5F52E6F3B6AE1F01"
-                                           },
-                   "skin.json5":  {
-                                      "hash":  "AB1C8BB9300495527DB39F502D4E761733037982752C324E2B248B1B68A31E49"
-                                  },
-                   "client.toml":  {
-                                       "hash":  "E6CA77393D993B18E48A8D87115D52DAD5EB0554BA3070F8919C257460FE377E"
-                                   },
-                   "um.properties":  {
-                                         "hash":  "6CF6F83720071FD1657C8E79B357CAF68D40F410AE123E5F922483EB1D1D25BE"
-                                     },
-                   "rf3.json":  {
-                                    "hash":  "1F6E136EF7B54F1A0CEED2D8BED96E668E05BB5440DBEB5927E18E76E0F91D38"
-                                },
-                   "/debug.json5":  {
-                                        "hash":  "E54D2423726125DD300297EA935FBFD82CF7C374FBD4EE2D85B7BA140E3BA97A"
-                                    },
-                   "iatelyfast.json":  {
-                                           "hash":  "E46074B1EC05A3FF6BE50A895C3A088F897CE9CC9B5915AD8B37F90AD03B9139"
-                                       },
-                   "nu.json":  {
-                                   "hash":  "16D20C40CC6C114FAFF5493B561873FE160A65047720BC19FB3A3DD64AA67F3B"
-                               },
-                   "_physics_remastered/reflectivity.properties":  {
-                                                                       "hash":  "E26B00784BB6239988759ED1A64551B9F301DC33C5A855D91E976EE4BF40AC8A"
-                                                                   },
-                   "config/keybinds.toml":  {
-                                                "hash":  "26AC5810C9B5DC5C1968827357F0A58C58AC2B6F7B082630960228E16585062F"
-                                            },
-                   "siveores/enderium-common.toml":  {
-                                                         "hash":  "0C6AB6B937C33D8368190983F7B759FCB832EDACE283C72AAB5777A873706979"
-                                                     },
-                   "ghtlib.json":  {
-                                       "hash":  "B14C45C6447F9EE5474D70784A2EF96731ABBECA1E92485B7599E76E9DCE1444"
-                                   },
-                   "e_effects/entities.toml":  {
-                                                   "hash":  "F2C86DB997ECAD447F02F9602330B2A4D155750A970B3CD50C53840C90619C02"
-                                               },
-                   "/extra/progress_blacklist.json5":  {
-                                                           "hash":  "B8F09C52B1A975DC1F0BA65C7F4B6757DFC1BC784B87E0530046ADAACBADCEC4"
-                                                       },
-                   "lity.json":  {
-                                     "hash":  "C3ADE847F83D496DC6606DCEE8EACF343C9AF1FD5C0DD7B97FA5FA615999BEBF"
-                                 },
-                   "siveores/vibranium-common.toml":  {
-                                                          "hash":  "CC499A7CCC1C471EA88183AE5D520A9F995694F41F73FEB5AD853B277C1F8242"
-                                                      },
-                   "e_effects/general.toml":  {
-                                                  "hash":  "6D0BBA2DB96D4225090B817069F3FAA4B59DC07ABDCA6AB3CFCE454D2BB937C4"
-                                              },
-                   "/waila_plugins.json5":  {
-                                                "hash":  "4A1C8B0DABF4E177B34019DE2CE5250D9792A7DF46CC23F1B5FC57E5A138588A"
-                                            },
-                   "oughanimations.json":  {
-                                               "hash":  "ED5963AB9132632E89EA83F63F992F793F102D114B77938514D89D255A5754F7"
-                                           },
-                   "json":  {
-                                "hash":  "B75E34C1D5616C22C1B373CCF8EB765734F134C2812CB6E05E6EF7AB07DC0D32"
-                            },
-                   "biome_playlists.json":  {
-                                                "hash":  "35CE68DB7FA155DD8D7C01FF7D0BBD0E85150C82DDA83F222810C3D1A7675173"
-                                            },
-                   "m-options.json":  {
-                                          "hash":  "445A55BCCCE87DD8467F3265D1572827E8778E873E3BB70290ADF0BB8A811E96"
-                                      },
-                   "icconfig.json":  {
-                                         "hash":  "BC17CFFB9AC63D90331FFE1AA114611597CBA47905883BBDC33F6E00D42C0545"
-                                     },
-                   "l.json":  {
-                                  "hash":  "F30375505D2B59C55C43F5157F53C97251C1AD40AA64DD210A38B80C9CDD7D0B"
-                              },
-                   "eseasons/seasons.toml":  {
-                                                 "hash":  "06DE1D557933D9BD42C7D652F86F65456246A156A1037B7A0855C8D2474620AB"
-                                             },
-                   "/plugin_toggle.json5":  {
-                                                "hash":  "60F352EA12C45FFE8E2FB70AA2F978A224286032A019F856DE9EBFCB246F4376"
-                                            },
-                   "excluded.json":  {
-                                         "hash":  "4D3264B58C502AFAECA3F44E8D2DB0843C54B8BA957AFD21A2D450FE10DAFEFB"
-                                     },
-                   "lyenoughitems/pinyin.properties":  {
-                                                           "hash":  "A8DF4EA1A05739A55711A6B31638D12DCA497755B0167937A333FA620432A6AD"
-                                                       },
-                   "y_texture_features.json":  {
-                                                   "hash":  "0554C0E7816266477C65C18D2ADA9FDDDF1C6750787EFD329056223CA4A073B2"
-                                               },
-                   "lick-join":  {
-                                     "hash":  "49DBCC08D00BFA404F641A4775A687DC7CE96E43A013A6B28285E109B55446DB"
-                                 }
+                   "oreconnectrf.json":  {
+                                             "hash":  "C70F491B4D3223BC6DBAEB0D33C8BFDAE0A4B5407003DE50D2831E0D6E02633D"
+                                         }
                },
     "resourcepacks":  {
 
                       },
     "shaderpacks":  {
-                        "ementaryReimagined_r5.5.1.zip":  {
-                                                              "hash":  "20897248A5FE91B33BF7FD4B75959C30AA2003DF195297979A410EE37D3BB62F"
-                                                          }
+                        "plementaryReimagined_r5.5.1.zip":  {
+                                                                "hash":  "20897248A5FE91B33BF7FD4B75959C30AA2003DF195297979A410EE37D3BB62F"
+                                                            }
                     },
     "versions":  {
-                     "6-pre3/1.21.6-pre3.json":  {
-                                                     "hash":  "CCABABD6CFACB60D008D394CCE178169EE57D912E5952A5E207E66633EAE3E1E"
-                                                 },
-                     "5/1.21.5.json":  {
-                                           "hash":  "45D5E51D44B8C52E549F465EDC063FB5DCD11526E6DC5B96C1F182CA55EDA1A2"
-                                       },
-                     "c-loader-0.16.14-1.21.5/fabric-loader-0.16.14-1.21.5.json":  {
-                                                                                       "hash":  "D54F37327AEEC33CD68C73795A9F3663625E165935D9A18C6951A700C170D9B6"
-                                                                                   },
-                     "6-pre4/1.21.6-pre4.json":  {
-                                                     "hash":  "68928C959FE16D3706FCFB403504E0CC6305E7399727E6E3AE2BA2B2B3F095BA"
-                                                 },
-                     "anifest.json":  {
-                                          "hash":  "F242DE0715F1C4B5655BAFCBCF737611C03AC755384E0D68AE4DDF54E9797D59"
-                                      },
-                     "c-loader-0.16.14-1.21.5/fabric-loader-0.16.14-1.21.5.jar":  {
-                                                                                      "hash":  "522672AD20B460C02C2E39B6C5035EF6A849AF28EB11AB2AC7EB293D395A8C11"
-                                                                                  },
-                     "on_manifest_v2.json":  {
-                                                 "hash":  "CF652E1496450E1BAF14264B9D2CE42777FE24B4E08CED3489C3EFC4EA43278A"
-                                             }
+                     "ric-loader-0.16.14-1.21.5/fabric-loader-0.16.14-1.21.5.json":  {
+                                                                                         "hash":  "D54F37327AEEC33CD68C73795A9F3663625E165935D9A18C6951A700C170D9B6"
+                                                                                     },
+                     "ric-loader-0.16.14-1.21.5/fabric-loader-0.16.14-1.21.5.jar":  {
+                                                                                        "hash":  "522672AD20B460C02C2E39B6C5035EF6A849AF28EB11AB2AC7EB293D395A8C11"
+                                                                                    }
                  },
     "mods":  {
                  "badpackets-fabric-0.8.2.jar":  {
@@ -390,29 +199,17 @@
                                                         }
              },
     "resources":  {
-                      "rcepack/optional/Whale SMP.zip":  {
-                                                             "hash":  "456CDA97E869F685415585D6816C528A6881F26D2DE89349C801028EB7D1EEED"
-                                                         },
-                      "rcepack/required/Default-Dark-Mode-1.21.4+-2025.5.1.zip":  {
-                                                                                      "hash":  "401A12F3D0C56F0A7E0B5A1D6DB114E312B0793A43A780D4B406941FA55E3F44"
-                                                                                  },
-                      "rcepack/required/Fresh Food 1.1.zip":  {
-                                                                  "hash":  "E46EB8AF1CD4E58DE337D721E709B06D5CF126687F524E6CDE17FA8D6D9170F4"
-                                                              },
-                      "rcepack/optional/FreshAnimations.zip":  {
-                                                                   "hash":  "E3988D219267D5C877A17EBCFD638BDBBE4B3A3AFD9E8234829CB03BF5F0D307"
-                                                               },
-                      "rcepack/required/FreshAnimations.zip":  {
-                                                                   "hash":  "E3988D219267D5C877A17EBCFD638BDBBE4B3A3AFD9E8234829CB03BF5F0D307"
-                                                               },
-                      "rcepack/optional/Default-Dark-Mode-1.21.4+-2025.5.1.zip":  {
-                                                                                      "hash":  "401A12F3D0C56F0A7E0B5A1D6DB114E312B0793A43A780D4B406941FA55E3F44"
-                                                                                  },
-                      "rcepack/optional/Fresh Food 1.1.zip":  {
-                                                                  "hash":  "E46EB8AF1CD4E58DE337D721E709B06D5CF126687F524E6CDE17FA8D6D9170F4"
-                                                              },
-                      "rcepack/required/Whale SMP.zip":  {
-                                                             "hash":  "456CDA97E869F685415585D6816C528A6881F26D2DE89349C801028EB7D1EEED"
-                                                         }
+                      "ourcepack/required/Whale SMP.zip":  {
+                                                               "hash":  "456CDA97E869F685415585D6816C528A6881F26D2DE89349C801028EB7D1EEED"
+                                                           },
+                      "ourcepack/required/Default-Dark-Mode-1.21.4+-2025.5.1.zip":  {
+                                                                                        "hash":  "401A12F3D0C56F0A7E0B5A1D6DB114E312B0793A43A780D4B406941FA55E3F44"
+                                                                                    },
+                      "ourcepack/required/Fresh Food 1.1.zip":  {
+                                                                    "hash":  "E46EB8AF1CD4E58DE337D721E709B06D5CF126687F524E6CDE17FA8D6D9170F4"
+                                                                },
+                      "ourcepack/required/FreshAnimations.zip":  {
+                                                                     "hash":  "E3988D219267D5C877A17EBCFD638BDBBE4B3A3AFD9E8234829CB03BF5F0D307"
+                                                                 }
                   }
 }

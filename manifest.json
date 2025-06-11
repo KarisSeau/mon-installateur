@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.1.5",
-    "releaseTimestamp":  1750632720,
+    "version":  "1.1.4",
+    "releaseTimestamp":  1749661200,
     "config":  {
                    "visuality.json":  {
                                           "hash":  "C3ADE847F83D496DC6606DCEE8EACF343C9AF1FD5C0DD7B97FA5FA615999BEBF"
@@ -198,7 +198,7 @@
                                                                        "hash":  "E46EB8AF1CD4E58DE337D721E709B06D5CF126687F524E6CDE17FA8D6D9170F4"
                                                                    },
                       "resourcepack/required/Whale SMP.zip":  {
-                                                                  "hash":  "456CDA97E869F685415585D6816C528A6881F26D2DE89349C801028EB7D1EEED"
+                                                                  "hash":  "303C137C9DE98854B1DD6ACA9792C02A3670030BBCDC0DDD89558A6CA22DA01B"
                                                               },
                       "resourcepack/required/Default-Dark-Mode-1.21.4+-2025.5.1.zip":  {
                                                                                            "hash":  "401A12F3D0C56F0A7E0B5A1D6DB114E312B0793A43A780D4B406941FA55E3F44"

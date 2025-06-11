@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "Loeiza SEX",
+    "version":  "1.1.5",
     "releaseTimestamp":  1750632720,
     "config":  {
                    "visuality.json":  {
@@ -80,10 +80,6 @@
                                                             "hash":  "8EAB99DD4A38DC47206531E2E25EAB41F78D7786DB8F57E2F2593D3C6CE0B3E4",
                                                             "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/waystones-fabric-1.21.5-21.5.7.jar"
                                                         },
-                 "architectury-16.1.4-fabric.jar":  {
-                                                        "hash":  "A9D53C7C4F6AA3329C27F2B882B9CAE9E38706FD6B61CC922E4B8529E8AB031B",
-                                                        "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/architectury-16.1.4-fabric.jar"
-                                                    },
                  "balm-fabric-1.21.5-21.5.16.jar":  {
                                                         "hash":  "D5DC03B4BE04708C604143A76E11F84A2D39F7E85DEB6919DCDE0CBE12138A82",
                                                         "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/balm-fabric-1.21.5-21.5.16.jar"

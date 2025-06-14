@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.1.7",
-    "releaseTimestamp":  1749898800,
+    "version":  "1.1.8",
+    "releaseTimestamp":  1749899400,
     "config":  {
                    "visuality.json":  {
                                           "hash":  "C3ADE847F83D496DC6606DCEE8EACF343C9AF1FD5C0DD7B97FA5FA615999BEBF"
@@ -8,6 +8,9 @@
                    "autoreconnectrf.json":  {
                                                 "hash":  "C70F491B4D3223BC6DBAEB0D33C8BFDAE0A4B5407003DE50D2831E0D6E02633D"
                                             },
+                   "install_log.txt":  {
+                                           "hash":  "B0BDF9660CB85420CFA97EEB3B89CAB871463BF71CA67A7B12E8FA1B2F4BAF26"
+                                       },
                    "betterf3.json":  {
                                          "hash":  "1F6E136EF7B54F1A0CEED2D8BED96E668E05BB5440DBEB5927E18E76E0F91D38"
                                      },

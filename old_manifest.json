@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.1.7",
-    "releaseTimestamp":  0,
+    "version":  "1.1.6",
+    "releaseTimestamp":  1749895500,
     "config":  {
                    "visuality.json":  {
                                           "hash":  "C3ADE847F83D496DC6606DCEE8EACF343C9AF1FD5C0DD7B97FA5FA615999BEBF"
@@ -206,15 +206,18 @@
                                                         }
              },
     "resources":  {
+                      "resourcepack/required/Default-Dark-Mode-1.21.4+-2025.5.1.zip":  {
+                                                                                           "hash":  "401A12F3D0C56F0A7E0B5A1D6DB114E312B0793A43A780D4B406941FA55E3F44"
+                                                                                       },
                       "resourcepack/required/Fresh Food 1.1.zip":  {
                                                                        "hash":  "E46EB8AF1CD4E58DE337D721E709B06D5CF126687F524E6CDE17FA8D6D9170F4"
                                                                    },
                       "resourcepack/required/Whale SMP.zip":  {
-                                                                  "hash":  "303C137C9DE98854B1DD6ACA9792C02A3670030BBCDC0DDD89558A6CA22DA01B"
+                                                                  "hash":  "6C003D871D8DA9E44C9621E3DE69B68425D78A772312CA69B873BCC4483439D9"
                                                               },
-                      "resourcepack/required/Default-Dark-Mode-1.21.4+-2025.5.1.zip":  {
-                                                                                           "hash":  "401A12F3D0C56F0A7E0B5A1D6DB114E312B0793A43A780D4B406941FA55E3F44"
-                                                                                       },
+                      "resourcepack/required/1.FA+All_Extensions-v1.5.2.zip":  {
+                                                                                   "hash":  "6ED2B94BE7ED381E9417C6C40D928F3D9405AB62FEEE0F8FACB0CAEDDF1C7FD5"
+                                                                               },
                       "resourcepack/required/FreshAnimations.zip":  {
                                                                         "hash":  "E3988D219267D5C877A17EBCFD638BDBBE4B3A3AFD9E8234829CB03BF5F0D307"
                                                                     }

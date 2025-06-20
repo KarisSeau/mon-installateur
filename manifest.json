@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.1.7",
-    "releaseTimestamp":  1750262400,
+    "version":  "1.1.8",
+    "releaseTimestamp":  1750435200,
     "config":  {
                    "visuality.json":  {
                                           "hash":  "C3ADE847F83D496DC6606DCEE8EACF343C9AF1FD5C0DD7B97FA5FA615999BEBF"
@@ -48,10 +48,6 @@
                                                                  "hash":  "9BAFD9E97609941D6BDC5874557784AC28C45F65B11FC8D6366E557E9B265521",
                                                                  "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/ImmediatelyFast-Fabric-1.9.5+1.21.5.jar"
                                                              },
-                 "SereneSeasons-fabric-1.21.5-10.5.0.1.jar":  {
-                                                                  "hash":  "1B52D958FBD2E4659589439572F54E31EA226FADC35A022ED24244401B9CB149",
-                                                                  "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/SereneSeasons-fabric-1.21.5-10.5.0.1.jar"
-                                                              },
                  "wthit-fabric-15.0.2.jar":  {
                                                  "hash":  "8166D40C795CD1BC6F219624EDE1EC70801D46A489F8266CEB34AA6C0D9429E0",
                                                  "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/wthit-fabric-15.0.2.jar"
@@ -96,6 +92,10 @@
                                                  "hash":  "D2EE588E1B081F024C6FD381A1E8AE40D357DE4826C577B5586722CA36038C80",
                                                  "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/modmenu-14.0.0-rc.2.jar"
                                              },
+                 "timm-1.0.6-1.21.5.jar":  {
+                                               "hash":  "B1AA5D1A71E699A0729DAFFE5FA31FC41F386BB4339F54A332E1E5E9D80DD446",
+                                               "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/timm-1.0.6-1.21.5.jar"
+                                           },
                  "simpleresourceloader-1.0.0+1.21.1.jar":  {
                                                                "hash":  "5C07CD0FE186955209D82114C93044FED7E17E5545FB6BADC96FC3AD7CD3FEDD",
                                                                "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/simpleresourceloader-1.0.0+1.21.1.jar"
@@ -104,14 +104,10 @@
                                                         "hash":  "AFB61AF1B5FF9CCE77B951ECC40D83D94F9094BD60DC443C8BB03FDE1514B350",
                                                         "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/particle_core-0.2.6+1.21.5.jar"
                                                     },
-                 "entity_model_features.jar":  {
-                                                   "hash":  "8B5D3E6CF07C18F5F292846E04B604E6FE8532200240FCD2830C5D49F14AEE6F",
-                                                   "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/entity_model_features.jar"
-                                               },
-                 "timm-1.0.3.jar":  {
-                                        "hash":  "DA1A628159DC050B8787C79812D08D5A81059546561C12E775DFB38DEBF5B270",
-                                        "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/timm-1.0.3.jar"
-                                    },
+                 "SereneSeasons-fabric-1.21.5-10.5.0.1.jar":  {
+                                                                  "hash":  "1B52D958FBD2E4659589439572F54E31EA226FADC35A022ED24244401B9CB149",
+                                                                  "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/SereneSeasons-fabric-1.21.5-10.5.0.1.jar"
+                                                              },
                  "cryonicconfig-fabric-1.0.0+mc1.21.4.jar":  {
                                                                  "hash":  "6929FC4DBC7C5ABCF8711C7EEF713955291A94C8DEA8D8AFDA4CC85F72E5AD84",
                                                                  "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/cryonicconfig-fabric-1.0.0+mc1.21.4.jar"
@@ -172,6 +168,10 @@
                                                      "hash":  "BE7A67B1BDF10177E90A9C04E8D7188E05942992F3F93DA298F2E25AD4D11AF4",
                                                      "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/entity_texture_features.jar"
                                                  },
+                 "entity_model_features_fabric_1.21.5-2.4.4.jar":  {
+                                                                       "hash":  "05E569308E65561960288290342AEC6AF7B645B7B676024AABD61017DC36F25B",
+                                                                       "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/entity_model_features_fabric_1.21.5-2.4.4.jar"
+                                                                   },
                  "sound-physics-remastered-fabric-1.21.5-1.4.12.jar":  {
                                                                            "hash":  "8C30EB7F7EDBA84622E288796DE25596FACC94B2951B72DAB8629BA0D462B2F6",
                                                                            "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/sound-physics-remastered-fabric-1.21.5-1.4.12.jar"
@@ -213,7 +213,7 @@
                                                                        "hash":  "E46EB8AF1CD4E58DE337D721E709B06D5CF126687F524E6CDE17FA8D6D9170F4"
                                                                    },
                       "resourcepack/required/Whale SMP.zip":  {
-                                                                  "hash":  "6C003D871D8DA9E44C9621E3DE69B68425D78A772312CA69B873BCC4483439D9"
+                                                                  "hash":  "BCAF02E46399A78FE585E10F67822ACDBD3891BD033AA0321AC87745AFEBBFE9"
                                                               },
                       "resourcepack/required/1.FA+All_Extensions-v1.5.2.zip":  {
                                                                                    "hash":  "6ED2B94BE7ED381E9417C6C40D928F3D9405AB62FEEE0F8FACB0CAEDDF1C7FD5"

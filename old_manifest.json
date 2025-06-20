@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.1.6",
-    "releaseTimestamp":  0,
+    "version":  "1.1.7",
+    "releaseTimestamp":  1750262400,
     "config":  {
                    "visuality.json":  {
                                           "hash":  "C3ADE847F83D496DC6606DCEE8EACF343C9AF1FD5C0DD7B97FA5FA615999BEBF"
@@ -124,6 +124,10 @@
                                                                 "hash":  "11B94618F1445BB160656798FBAC5F523FCA927D27707706E77FBD64EE182217",
                                                                 "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/one-click-join-1.21.2-fabric-1.0.1.jar"
                                                             },
+                 "lithium-fabric-0.16.3+mc1.21.5.jar":  {
+                                                            "hash":  "6661B5A50FBC85C60328C68BAB7361C3AF6685B482F3B324DC10DBBDCF64E06D",
+                                                            "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/lithium-fabric-0.16.3+mc1.21.5.jar"
+                                                        },
                  "RoughlyEnoughItems-19.0.806-fabric.jar":  {
                                                                 "hash":  "343B30022D4880A4C520A39907DF26E0E2D6CE0BDB125767556C4408E637D2B7",
                                                                 "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/RoughlyEnoughItems-19.0.806-fabric.jar"
@@ -196,10 +200,6 @@
                                                              "hash":  "E6FE03339204F887E295701998DF4B116F92EA183394156467670AB1AAF6EFB3",
                                                              "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/appleskin-fabric-mc1.21.5-3.0.6.jar"
                                                          },
-                 "lithium-fabric-0.16.2+mc1.21.5.jar":  {
-                                                            "hash":  "5EABE74310126B8334977249C62E448FA4CC1D45A0A1D3A6321C1BCD6B8C6068",
-                                                            "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/lithium-fabric-0.16.2+mc1.21.5.jar"
-                                                        },
                  "FactoryAPI-1.21.5-2.2.5-fabric.jar":  {
                                                             "hash":  "D0E482D7C757A9BB4D4AEB21839DEB5E64BBCEAA0813C96F61DABCD55905C3CE",
                                                             "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/FactoryAPI-1.21.5-2.2.5-fabric.jar"

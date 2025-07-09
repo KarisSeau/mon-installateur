@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.1.8",
-    "releaseTimestamp":  1750435200,
+    "version":  "1.1.9",
+    "releaseTimestamp":  0,
     "config":  {
                    "visuality.json":  {
                                           "hash":  "C3ADE847F83D496DC6606DCEE8EACF343C9AF1FD5C0DD7B97FA5FA615999BEBF"
@@ -44,10 +44,6 @@
                                                               "hash":  "DF6A424412E6AB377455ED91EAFF2224D99D17576086C3DE73ACE59DDE50FF8F",
                                                               "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/GlitchCore-fabric-1.21.5-2.5.0.1.jar"
                                                           },
-                 "ImmediatelyFast-Fabric-1.9.5+1.21.5.jar":  {
-                                                                 "hash":  "9BAFD9E97609941D6BDC5874557784AC28C45F65B11FC8D6366E557E9B265521",
-                                                                 "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/ImmediatelyFast-Fabric-1.9.5+1.21.5.jar"
-                                                             },
                  "wthit-fabric-15.0.2.jar":  {
                                                  "hash":  "8166D40C795CD1BC6F219624EDE1EC70801D46A489F8266CEB34AA6C0D9429E0",
                                                  "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/wthit-fabric-15.0.2.jar"
@@ -68,14 +64,10 @@
                                     "hash":  "38DB626F6286E8773B3BFCDFF5AD32965EF0F0098751C63ACF82BDA6AC051D35",
                                     "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/sodium.jar"
                                 },
-                 "notenoughanimations.jar":  {
-                                                 "hash":  "E6C948182AD255678DCF8E0888BC3AEF397245708686E8CC48AC157CD94DB447",
-                                                 "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/notenoughanimations.jar"
-                                             },
-                 "waystones-fabric-1.21.5-21.5.7.jar":  {
-                                                            "hash":  "8EAB99DD4A38DC47206531E2E25EAB41F78D7786DB8F57E2F2593D3C6CE0B3E4",
-                                                            "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/waystones-fabric-1.21.5-21.5.7.jar"
-                                                        },
+                 "RoughlyEnoughItems-19.0.809-fabric.jar":  {
+                                                                "hash":  "D28B88191F22F63AD552B04C498454A39724A701CFC7814B054ADC7982FACF23",
+                                                                "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/RoughlyEnoughItems-19.0.809-fabric.jar"
+                                                            },
                  "architectury-16.1.4-fabric.jar":  {
                                                         "hash":  "A9D53C7C4F6AA3329C27F2B882B9CAE9E38706FD6B61CC922E4B8529E8AB031B",
                                                         "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/architectury-16.1.4-fabric.jar"
@@ -92,14 +84,10 @@
                                                  "hash":  "D2EE588E1B081F024C6FD381A1E8AE40D357DE4826C577B5586722CA36038C80",
                                                  "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/modmenu-14.0.0-rc.2.jar"
                                              },
-                 "timm-1.0.6-1.21.5.jar":  {
-                                               "hash":  "B1AA5D1A71E699A0729DAFFE5FA31FC41F386BB4339F54A332E1E5E9D80DD446",
-                                               "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/timm-1.0.6-1.21.5.jar"
-                                           },
-                 "simpleresourceloader-1.0.0+1.21.1.jar":  {
-                                                               "hash":  "5C07CD0FE186955209D82114C93044FED7E17E5545FB6BADC96FC3AD7CD3FEDD",
-                                                               "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/simpleresourceloader-1.0.0+1.21.1.jar"
-                                                           },
+                 "notenoughanimations-fabric-1.10.1-mc1.21.5.jar":  {
+                                                                        "hash":  "F08404CE53594030B6741FEECD7A50EFB9C603C93823CD32053D4FC2255A508B",
+                                                                        "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/notenoughanimations-fabric-1.10.1-mc1.21.5.jar"
+                                                                    },
                  "particle_core-0.2.6+1.21.5.jar":  {
                                                         "hash":  "AFB61AF1B5FF9CCE77B951ECC40D83D94F9094BD60DC443C8BB03FDE1514B350",
                                                         "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/particle_core-0.2.6+1.21.5.jar"
@@ -108,26 +96,26 @@
                                                                   "hash":  "1B52D958FBD2E4659589439572F54E31EA226FADC35A022ED24244401B9CB149",
                                                                   "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/SereneSeasons-fabric-1.21.5-10.5.0.1.jar"
                                                               },
-                 "cryonicconfig-fabric-1.0.0+mc1.21.4.jar":  {
-                                                                 "hash":  "6929FC4DBC7C5ABCF8711C7EEF713955291A94C8DEA8D8AFDA4CC85F72E5AD84",
-                                                                 "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/cryonicconfig-fabric-1.0.0+mc1.21.4.jar"
+                 "ImmediatelyFast-Fabric-1.9.6+1.21.5.jar":  {
+                                                                 "hash":  "6FE683023CB2894953F0BB00D1DA977A4BB81E46B0100ED808A92FC380564AE3",
+                                                                 "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/ImmediatelyFast-Fabric-1.9.6+1.21.5.jar"
                                                              },
+                 "simpleresourceloader-1.0.0+1.21.1.jar":  {
+                                                               "hash":  "5C07CD0FE186955209D82114C93044FED7E17E5545FB6BADC96FC3AD7CD3FEDD",
+                                                               "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/simpleresourceloader-1.0.0+1.21.1.jar"
+                                                           },
                  "fallingleaves.jar":  {
                                            "hash":  "BDD34A1CDD24440094F476291D3520A640B64B1CDEF9EB7C82758FDD33C84B61",
                                            "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/fallingleaves.jar"
                                        },
-                 "one-click-join-1.21.2-fabric-1.0.1.jar":  {
-                                                                "hash":  "11B94618F1445BB160656798FBAC5F523FCA927D27707706E77FBD64EE182217",
-                                                                "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/one-click-join-1.21.2-fabric-1.0.1.jar"
-                                                            },
+                 "sound-physics-remastered-fabric-1.21.5-1.4.12.jar":  {
+                                                                           "hash":  "8C30EB7F7EDBA84622E288796DE25596FACC94B2951B72DAB8629BA0D462B2F6",
+                                                                           "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/sound-physics-remastered-fabric-1.21.5-1.4.12.jar"
+                                                                       },
                  "lithium-fabric-0.16.3+mc1.21.5.jar":  {
                                                             "hash":  "6661B5A50FBC85C60328C68BAB7361C3AF6685B482F3B324DC10DBBDCF64E06D",
                                                             "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/lithium-fabric-0.16.3+mc1.21.5.jar"
                                                         },
-                 "RoughlyEnoughItems-19.0.806-fabric.jar":  {
-                                                                "hash":  "343B30022D4880A4C520A39907DF26E0E2D6CE0BDB125767556C4408E637D2B7",
-                                                                "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/RoughlyEnoughItems-19.0.806-fabric.jar"
-                                                            },
                  "BetterFurnacesReforged-1.21.5-1.1.2518.1-fabric.jar":  {
                                                                              "hash":  "81B553EB171408CCB26004904B3576FC35454FFB83505513E779DB72D2F8D0C6",
                                                                              "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/BetterFurnacesReforged-1.21.5-1.1.2518.1-fabric.jar"
@@ -136,6 +124,10 @@
                                   "hash":  "E961C1FC63493B56EDAEA7A4934B8F8B13A913CD95437927EA18EC1E870EF93F",
                                   "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/iris.jar"
                               },
+                 "timm-1.0.6-1.21.5.jar":  {
+                                               "hash":  "B1AA5D1A71E699A0729DAFFE5FA31FC41F386BB4339F54A332E1E5E9D80DD446",
+                                               "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/timm-1.0.6-1.21.5.jar"
+                                           },
                  "chisel-fabric-2.0.1+mc1.21.5.jar":  {
                                                           "hash":  "36F663B1C9503F47DEEAA33D78D1109A44CBCF924D61A00BF50E163C2F7D085F",
                                                           "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/chisel-fabric-2.0.1+mc1.21.5.jar"
@@ -152,6 +144,10 @@
                                        "hash":  "738C915FF7B4A7CE2A3A5E5564CF789D0DE154751FB1800DD4EA25CB2AA3E613",
                                        "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/visuality.jar"
                                    },
+                 "waystones-fabric-1.21.5-21.5.7.jar":  {
+                                                            "hash":  "8EAB99DD4A38DC47206531E2E25EAB41F78D7786DB8F57E2F2593D3C6CE0B3E4",
+                                                            "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/waystones-fabric-1.21.5-21.5.7.jar"
+                                                        },
                  "fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar":  {
                                                                          "hash":  "D1DE7CD78DF3A8C6C86B38238BFD69140D1BF0EAD5D8EF5BBA48CF3CA1342D8B",
                                                                          "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar"
@@ -172,10 +168,10 @@
                                                                        "hash":  "05E569308E65561960288290342AEC6AF7B645B7B676024AABD61017DC36F25B",
                                                                        "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/entity_model_features_fabric_1.21.5-2.4.4.jar"
                                                                    },
-                 "sound-physics-remastered-fabric-1.21.5-1.4.12.jar":  {
-                                                                           "hash":  "8C30EB7F7EDBA84622E288796DE25596FACC94B2951B72DAB8629BA0D462B2F6",
-                                                                           "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/sound-physics-remastered-fabric-1.21.5-1.4.12.jar"
-                                                                       },
+                 "FactoryAPI-1.21.5-2.2.5-fabric.jar":  {
+                                                            "hash":  "D0E482D7C757A9BB4D4AEB21839DEB5E64BBCEAA0813C96F61DABCD55905C3CE",
+                                                            "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/FactoryAPI-1.21.5-2.2.5-fabric.jar"
+                                                        },
                  "coolrain-1.2.0-1.21.5.jar":  {
                                                    "hash":  "47EDEACB8BB44D3DE6A6A1D4085264636D291F823503557B993886E33B7FFAA7",
                                                    "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/coolrain-1.2.0-1.21.5.jar"
@@ -184,6 +180,10 @@
                                                                "hash":  "D43AB72623D3CA297949FFB53D0D53DB96C9D674F731490034E7972C7BEC6FC2",
                                                                "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/autoreconnectrf-fabric-1.0.4+1.21.jar"
                                                            },
+                 "one-click-join-1.21.2-fabric-1.1.0.jar":  {
+                                                                "hash":  "3C41A84A23CDFCAE82D900736551A49900705EF659649B46DA7BACE1BD90D0D4",
+                                                                "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/one-click-join-1.21.2-fabric-1.1.0.jar"
+                                                            },
                  "blur.jar":  {
                                   "hash":  "CA7F0C048A26B8628235750C4BBFBF6B5AC10D35607AA052A61D062701E0E9DC",
                                   "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/blur.jar"
@@ -200,10 +200,10 @@
                                                              "hash":  "E6FE03339204F887E295701998DF4B116F92EA183394156467670AB1AAF6EFB3",
                                                              "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/appleskin-fabric-mc1.21.5-3.0.6.jar"
                                                          },
-                 "FactoryAPI-1.21.5-2.2.5-fabric.jar":  {
-                                                            "hash":  "D0E482D7C757A9BB4D4AEB21839DEB5E64BBCEAA0813C96F61DABCD55905C3CE",
-                                                            "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/FactoryAPI-1.21.5-2.2.5-fabric.jar"
-                                                        }
+                 "cryonicconfig-fabric-1.0.0+mc1.21.7.jar":  {
+                                                                 "hash":  "58106BC8C8B01DB34DCBD80FD0E0CCBE13F3831A3514345E0239549E39B27A92",
+                                                                 "url":  "https://github.com/KarisSeau/mon-installateur/releases/download/latest/cryonicconfig-fabric-1.0.0+mc1.21.7.jar"
+                                                             }
              },
     "resources":  {
                       "resourcepack/required/Default-Dark-Mode-1.21.4+-2025.5.1.zip":  {
@@ -213,7 +213,7 @@
                                                                        "hash":  "E46EB8AF1CD4E58DE337D721E709B06D5CF126687F524E6CDE17FA8D6D9170F4"
                                                                    },
                       "resourcepack/required/Whale SMP.zip":  {
-                                                                  "hash":  "BCAF02E46399A78FE585E10F67822ACDBD3891BD033AA0321AC87745AFEBBFE9"
+                                                                  "hash":  "BAEB87FFE1E771604A5313FE24F03A52792AF619457B4E09A0E7B9B845F38723"
                                                               },
                       "resourcepack/required/1.FA+All_Extensions-v1.5.2.zip":  {
                                                                                    "hash":  "6ED2B94BE7ED381E9417C6C40D928F3D9405AB62FEEE0F8FACB0CAEDDF1C7FD5"

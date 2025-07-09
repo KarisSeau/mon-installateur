@@ -2,34 +2,34 @@
     "version":  "1.1.9",
     "releaseTimestamp":  0,
     "config":  {
-                   "config/betterf3.json":  {
-                                                "hash":  "1F6E136EF7B54F1A0CEED2D8BED96E668E05BB5440DBEB5927E18E76E0F91D38"
+                   "visuality.json":  {
+                                          "hash":  "C3ADE847F83D496DC6606DCEE8EACF343C9AF1FD5C0DD7B97FA5FA615999BEBF"
+                                      },
+                   "autoreconnectrf.json":  {
+                                                "hash":  "C70F491B4D3223BC6DBAEB0D33C8BFDAE0A4B5407003DE50D2831E0D6E02633D"
                                             },
-                   "config/autoreconnectrf.json":  {
-                                                       "hash":  "C70F491B4D3223BC6DBAEB0D33C8BFDAE0A4B5407003DE50D2831E0D6E02633D"
-                                                   },
-                   "config/one-click-join":  {
-                                                 "hash":  "49DBCC08D00BFA404F641A4775A687DC7CE96E43A013A6B28285E109B55446DB"
-                                             },
-                   "config/visuality.json":  {
-                                                 "hash":  "C3ADE847F83D496DC6606DCEE8EACF343C9AF1FD5C0DD7B97FA5FA615999BEBF"
-                                             }
+                   "betterf3.json":  {
+                                         "hash":  "1F6E136EF7B54F1A0CEED2D8BED96E668E05BB5440DBEB5927E18E76E0F91D38"
+                                     },
+                   "one-click-join":  {
+                                          "hash":  "49DBCC08D00BFA404F641A4775A687DC7CE96E43A013A6B28285E109B55446DB"
+                                      }
                },
     "resourcepacks":  {
 
                       },
     "shaderpacks":  {
-                        "shaderpacks/ComplementaryReimagined_r5.5.1.zip":  {
-                                                                               "hash":  "20897248A5FE91B33BF7FD4B75959C30AA2003DF195297979A410EE37D3BB62F"
-                                                                           }
+                        "ComplementaryReimagined_r5.5.1.zip":  {
+                                                                   "hash":  "20897248A5FE91B33BF7FD4B75959C30AA2003DF195297979A410EE37D3BB62F"
+                                                               }
                     },
     "versions":  {
-                     "versions/fabric-loader-0.16.14-1.21.5/fabric-loader-0.16.14-1.21.5.jar":  {
-                                                                                                    "hash":  "522672AD20B460C02C2E39B6C5035EF6A849AF28EB11AB2AC7EB293D395A8C11"
-                                                                                                },
-                     "versions/fabric-loader-0.16.14-1.21.5/fabric-loader-0.16.14-1.21.5.json":  {
-                                                                                                     "hash":  "D54F37327AEEC33CD68C73795A9F3663625E165935D9A18C6951A700C170D9B6"
-                                                                                                 }
+                     "fabric-loader-0.16.14-1.21.5/fabric-loader-0.16.14-1.21.5.json":  {
+                                                                                            "hash":  "D54F37327AEEC33CD68C73795A9F3663625E165935D9A18C6951A700C170D9B6"
+                                                                                        },
+                     "fabric-loader-0.16.14-1.21.5/fabric-loader-0.16.14-1.21.5.jar":  {
+                                                                                           "hash":  "522672AD20B460C02C2E39B6C5035EF6A849AF28EB11AB2AC7EB293D395A8C11"
+                                                                                       }
                  },
     "mods":  {
                  "badpackets-fabric-0.8.2.jar":  {
@@ -206,20 +206,20 @@
                                                              }
              },
     "resources":  {
-                      "resources/resourcepack/required/Whale SMP.zip":  {
-                                                                            "hash":  "0D0A3E0BB7A2863AD65A2E4913C3DA1FB4177F1A7A4A8C2EA6E97E1EDCB6F845"
-                                                                        },
-                      "resources/resourcepack/required/FreshAnimations.zip":  {
-                                                                                  "hash":  "E3988D219267D5C877A17EBCFD638BDBBE4B3A3AFD9E8234829CB03BF5F0D307"
-                                                                              },
-                      "resources/resourcepack/required/1.FA+All_Extensions-v1.5.2.zip":  {
-                                                                                             "hash":  "6ED2B94BE7ED381E9417C6C40D928F3D9405AB62FEEE0F8FACB0CAEDDF1C7FD5"
-                                                                                         },
-                      "resources/resourcepack/required/Default-Dark-Mode-1.21.4+-2025.5.1.zip":  {
-                                                                                                     "hash":  "401A12F3D0C56F0A7E0B5A1D6DB114E312B0793A43A780D4B406941FA55E3F44"
-                                                                                                 },
-                      "resources/resourcepack/required/Fresh Food 1.1.zip":  {
-                                                                                 "hash":  "E46EB8AF1CD4E58DE337D721E709B06D5CF126687F524E6CDE17FA8D6D9170F4"
-                                                                             }
+                      "resourcepack/required/Default-Dark-Mode-1.21.4+-2025.5.1.zip":  {
+                                                                                           "hash":  "401A12F3D0C56F0A7E0B5A1D6DB114E312B0793A43A780D4B406941FA55E3F44"
+                                                                                       },
+                      "resourcepack/required/Fresh Food 1.1.zip":  {
+                                                                       "hash":  "E46EB8AF1CD4E58DE337D721E709B06D5CF126687F524E6CDE17FA8D6D9170F4"
+                                                                   },
+                      "resourcepack/required/Whale SMP.zip":  {
+                                                                  "hash":  "BAEB87FFE1E771604A5313FE24F03A52792AF619457B4E09A0E7B9B845F38723"
+                                                              },
+                      "resourcepack/required/1.FA+All_Extensions-v1.5.2.zip":  {
+                                                                                   "hash":  "6ED2B94BE7ED381E9417C6C40D928F3D9405AB62FEEE0F8FACB0CAEDDF1C7FD5"
+                                                                               },
+                      "resourcepack/required/FreshAnimations.zip":  {
+                                                                        "hash":  "E3988D219267D5C877A17EBCFD638BDBBE4B3A3AFD9E8234829CB03BF5F0D307"
+                                                                    }
                   }
 }
